@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Ivan
 
-Hey there! I’m a software engineer with expertise in Java-based solutions, network programming, cloud-native solutions, operating systems, and modern asynchronous programming paradigms.
+I’m a software engineer with expertise in Java-based solutions, network programming, cloud-native solutions, operating systems, and modern asynchronous programming paradigms.
 
 In addition to my development work, I serve as a teaching assistant at Sofia University, where I guide students through complex (or not that complex) programming concepts and software engineering practices.
 
