@@ -1,4 +1,4 @@
-### Hey
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Ivan
 
 Hey there! I’m a software engineer with expertise in Java-based solutions, network programming, cloud-native solutions, operating systems, and modern asynchronous programming paradigms.
 
