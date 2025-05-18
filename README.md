@@ -22,7 +22,7 @@ In addition to my development work, I serve as a teaching assistant at Sofia Uni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Helm_%28package_manager%29_logo.svg/250px-Helm_%28package_manager%29_logo.svg.png" alt="Helm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/istio/icon/color/istio-icon-color.svg" alt="Istio" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/JBoss-Netty-logo.png" alt="Netty" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/473791?s=48&v=4" alt="Netty" width="40" height="40"/>
 </p>
 
 ### ⚙️ GitHub Analytics
